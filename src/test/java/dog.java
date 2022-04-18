@@ -8,7 +8,7 @@ public class dog {
 	
 System.out.println("dog ");
 
-System.out.println("Dog 2");
+
 	}
 
 }
